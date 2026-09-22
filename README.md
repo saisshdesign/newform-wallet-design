@@ -11,7 +11,7 @@ The concept focuses on creating a simple, modern and Gen-Z-friendly experience f
 - Consistent UI
 
 ## Final Design
-[NewForm Design Contest Wallet UI](newform-contest-wallet-ui-01)
+![NewForm Design Contest Wallet UI](newform-contest-wallet-ui-01)
 
 ## Tools 
 - Figma
