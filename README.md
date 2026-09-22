@@ -16,8 +16,10 @@ The concept focuses on creating a simple, modern and Gen-Z-friendly experience f
 ## Role
 - UX/UI Designer
 
-## Final Design
-[![NewForm Design Contest Wallet UI](./newform-contest-wallet-ui-01.jpg)](./newform-contest-wallet-ui-01.jpg)
 
 ## Credits
 - Designed by Saissh Bhende for the NEWFORM Community design contest.
+  
+## Final Design
+[![NewForm Design Contest Wallet UI](./newform-contest-wallet-ui-01.jpg)](./newform-contest-wallet-ui-01.jpg)
+
