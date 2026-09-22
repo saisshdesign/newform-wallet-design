@@ -10,14 +10,14 @@ The concept focuses on creating a simple, modern and Gen-Z-friendly experience f
 - Modern Web3 Aesthetic
 - Consistent UI
 
-## Final Design
-[![NewForm Design Contest Wallet UI](./newform-contest-wallet-ui-01.jpg)](./newform-contest-wallet-ui-01.jpg)
-
 ## Tools 
 - Figma
 
 ## Role
 - UX/UI Designer
+
+## Final Design
+[![NewForm Design Contest Wallet UI](./newform-contest-wallet-ui-01.jpg)](./newform-contest-wallet-ui-01.jpg)
 
 ## Credits
 - Designed by Saissh Bhende for the NEWFORM Community design contest.
